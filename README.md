@@ -22,4 +22,4 @@
 
 ### 三、视频连接
 * [B站视频](https://www.bilibili.com/video/BV1FQ4y1M7Ma?p=1)   
-* 网易云课堂(https://study.163.com/course/courseLearn.htm?courseId=1209818904&share=1&shareId=10848688#/learn/video?lessonId=1280548090&courseId=1209818904)  
+* [网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1209818904&share=1&shareId=10848688#/learn/video?lessonId=1280548090&courseId=1209818904)  
